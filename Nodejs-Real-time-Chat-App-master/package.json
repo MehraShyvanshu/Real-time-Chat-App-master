@@ -24,7 +24,7 @@
   "bugs": {
     "url":
   },
-  "homepage": "https://github.com/extwiii/Nodejs-Real-time-Chat-App-#readme",
+  "homepage": "https://github.com/MehraShyvanshu/Real-time-Chat-App-master/blob/main/README.md",
   "dependencies": {
     "express": "^4.14.0",
     "jade": "^1.11.0",
