@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/extwiii/Nodejs-Real-time-Chat-App-.git"
+    "url": "git+https://github.com/MehraShyvanshu/Real-time-Chat-App-master/tree/main/Nodejs-Real-time-Chat-App-master"
   },
   "keywords": [
     "nodejs",
@@ -19,10 +19,10 @@
     "chat",
     "app"
   ],
-  "author": "Bilal Cagiran",
+  "author": "Shyvanshu Mehra",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/extwiii/Nodejs-Real-time-Chat-App-/issues"
+    "url":
   },
   "homepage": "https://github.com/extwiii/Nodejs-Real-time-Chat-App-#readme",
   "dependencies": {
